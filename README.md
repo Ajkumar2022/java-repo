@@ -1,2 +1,2 @@
 # java-repo
-practice of git
+practice of git with java und Intellij
